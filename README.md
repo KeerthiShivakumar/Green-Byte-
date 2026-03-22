@@ -79,8 +79,8 @@ Data centers now consume **352TWh globally** and account for **2.5-3.7% of green
 
 ## 📄 Documentation
 
-- [Full Report](./docs/GREENBYTE_REPORT.md) - Comprehensive ideathon submission
-- [Presentation Script](./docs/PRESENTATION_SCRIPT.md) - 12-slide pitch deck script
+- [Full Report](file:///C:/Users/KEERTHI%20SHIVAKUMAR/AppData/Local/Temp/d5186c7e-61ed-479a-8b8d-e310eaa15ef8_Green%20Glitch%202.0.zip.ef8/GREEN%20BYTE_FINAL.pdf) - Comprehensive ideathon submission
+- [Presentation Script](https://1drv.ms/p/c/66b62c07b823f522/IQCQ55MMt806T5-hvd-A9LPRAUCrJ61EXq-jB8kqE6pEvgo?e=MTijpA) - 12-slide pitch deck script
 
 ## 🎓 Competition
 
